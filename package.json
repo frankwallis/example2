@@ -1,0 +1,16 @@
+{
+  "jspm": {
+    "registry": "github",
+    "name": "frankwallis/example2",
+    "version": "0.0.1",
+    "main": "src/index.ts!",
+    "dependencies": {
+      "angular": "angular/bower-angular@^1.3.13",
+      "ts": "frankwallis/plugin-typescript@^0.6.2"
+    },
+    "devDependencies": {
+      "traceur": "jmcriffey/bower-traceur@0.0.87",
+      "traceur-runtime": "jmcriffey/bower-traceur-runtime@0.0.87"
+    }
+  }
+}
